@@ -1,5 +1,6 @@
 # OpenShorts.app
 
+
 **The open-source OpusClip alternative.** Turn long videos into viral 9:16 Shorts, TikToks and Reels. Self-host free (MIT) or use the hosted cloud.
 
 | | OpenShorts | OpusClip | Vizard | Klap |
