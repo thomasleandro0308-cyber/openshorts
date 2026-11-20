@@ -923,7 +923,7 @@ def get_viral_clips(transcript_result, video_duration):
 
     client = genai.Client(api_key=api_key)
     
-    model_name = 'gemini-3-flash-preview'
+    model_name = os.getenv('GEMINI_MODEL', 'gemini-2.5-flash')
     
     print(f"🤖  Initializing Gemini with model: {model_name}")
 
